@@ -1,4 +1,6 @@
-## Hi there 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There+👋;I`m+Roman+Agapkin)](https://git.io/typing-svg)
+
 
 <!--
 **romatr1x/romatr1x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
